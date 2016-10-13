@@ -8,3 +8,5 @@ int main(void)
 		scanf("%d",&payments[i]);
 	}
 	
+	return 0;
+}
