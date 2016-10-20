@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include"sum.c"
+//#include"sum.h"
+#include"average.c"
+//#include"average.h"
+
+int main(void)
+{
+	int payments[] = {45,45,45,45,45};
+	printf("sum:%d ave:%d\n",sum(payments),average(payments));
+	
+	return 0;
+}
