@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include "average.h"
-int  average(int spendings[])
+int  averagex(int spendings[])
 {
 	int i;
 	int ave=0;
