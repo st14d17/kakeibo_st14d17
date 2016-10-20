@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int sum(int spendings[])
+int sumx(int spendings[])
 {
 	int i,result=0;
 	for(i=0;i<5;i++) {
